@@ -1,0 +1,10 @@
+.onepassword-scim
+|__ scim-examples
+      |__aws-ecsfargate-terraform
+          |__task-definitions
+          |__README.md
+          |__main.tf
+          |__outputs.tf
+          |__terraform.tfvars
+          |__terraform.tfvars.template
+          |__variables.tf
